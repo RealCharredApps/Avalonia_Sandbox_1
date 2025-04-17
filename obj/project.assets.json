@@ -1479,24 +1479,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Justin.Sjaaheim\\.nuget\\packages\\": {}
+    "/Users/bbm2/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Justin.Sjaaheim\\Documents\\000. JS Cert Learn\\Vid Job Scripts\\Test_Avalonia_UI\\GetStartedApp\\GetStartedApp.csproj",
+      "projectUniqueName": "/Library/CodeProjects/Avalonia TESTER/Avalonia_Sandbox_1/GetStartedApp.csproj",
       "projectName": "GetStartedApp",
-      "projectPath": "C:\\Users\\Justin.Sjaaheim\\Documents\\000. JS Cert Learn\\Vid Job Scripts\\Test_Avalonia_UI\\GetStartedApp\\GetStartedApp.csproj",
-      "packagesPath": "C:\\Users\\Justin.Sjaaheim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Justin.Sjaaheim\\Documents\\000. JS Cert Learn\\Vid Job Scripts\\Test_Avalonia_UI\\GetStartedApp\\obj\\",
+      "projectPath": "/Library/CodeProjects/Avalonia TESTER/Avalonia_Sandbox_1/GetStartedApp.csproj",
+      "packagesPath": "/Users/bbm2/.nuget/packages/",
+      "outputPath": "/Library/CodeProjects/Avalonia TESTER/Avalonia_Sandbox_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Justin.Sjaaheim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/bbm2/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1561,7 +1562,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

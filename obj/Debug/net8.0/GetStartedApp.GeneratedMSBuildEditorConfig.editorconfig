@@ -15,12 +15,12 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GetStartedApp
-build_property.ProjectDir = C:\Users\Justin.Sjaaheim\Documents\000. JS Cert Learn\Vid Job Scripts\Test_Avalonia_UI\GetStartedApp\
+build_property.ProjectDir = /Library/CodeProjects/Avalonia TESTER/Avalonia_Sandbox_1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Justin.Sjaaheim/Documents/000. JS Cert Learn/Vid Job Scripts/Test_Avalonia_UI/GetStartedApp/App.axaml]
+[/Library/CodeProjects/Avalonia TESTER/Avalonia_Sandbox_1/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/Justin.Sjaaheim/Documents/000. JS Cert Learn/Vid Job Scripts/Test_Avalonia_UI/GetStartedApp/Views/MainWindow.axaml]
+[/Library/CodeProjects/Avalonia TESTER/Avalonia_Sandbox_1/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
